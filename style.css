@@ -9,7 +9,7 @@
 body {
   font-family: sans-serif;
   background-color: #00bfb2;
-  background-image: url("/public/bg.jpg");
+  background-image: url("public/bg.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -150,7 +150,7 @@ body {
     padding: 2.7rem 3.2rem;
     border-radius: 26px;
     row-gap: 1rem;
-    background-image: url("/public/0.jpg");
+    background-image: url("public/0.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
