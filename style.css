@@ -9,10 +9,10 @@
 body {
   font-family: sans-serif;
   background-color: #00bfb2;
-  background-image: linear-gradient(315deg, #00bfb2 0%, #028090 74%);
-  background-repeat: no-repeat;
+  background-image: url("/public/bg.jpg");
   background-position: center;
   background-size: cover;
+  background-repeat: no-repeat;
   min-height: 100vh;
   overflow: hidden;
 }
