@@ -1,8 +1,13 @@
 # Art Gallery Web Page
 
-
 ## Live url
 [https://eco-art-gallery.netlify.app/](https://eco-art-gallery.netlify.app/)
+
+## App url
+[https://expo.dev/accounts/nosang/projects/art-gallery/builds/ea978cec-a5c8-4bd9-8f1a-1a1c65e3f9f3](https://expo.dev/accounts/nosang/projects/art-gallery/builds/ea978cec-a5c8-4bd9-8f1a-1a1c65e3f9f3)
+
+## App repo
+https://github.com/nosangCodes/eco-money-assesment-app
 
 ## Folder Struvture
 
